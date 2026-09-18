@@ -1,0 +1,9 @@
+[0.0.1]
+
+Upgraded Lucide to 1.47.0 and Lucide Lab to 0.7.0.
+---
+
+// A changelog must be opened by a version tag wrapped by square brackets,
+// and closed by three consecutive dashes.
+
+// Latest changelog must be located in the beginning of the document.

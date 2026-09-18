@@ -1,0 +1,10 @@
+{
+	"id": "mainstream-icons",
+	"name": "Mainstream Icons",
+	"version": "0.0.1",
+	"minAppVersion": "1.10.0",
+	"description": "Inject additional mainstream icons from Lucide and Lucide Lab.",
+	"author": "Kotaindah55",
+	"authorUrl": "https://github.com/kotaindah55",
+	"isDesktopOnly": false
+}
