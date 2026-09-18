@@ -46,7 +46,6 @@ jobs:
         with:
           subject-path: |
             dist/main.js
-            dist/styles.css
             dist/manifest.json
 
       - name: Create release
@@ -57,4 +56,4 @@ jobs:
           gh release create "${{ env.PLUGIN_VERSION }}" \
             --title="${{ env.PLUGIN_VERSION }}" \
             --notes-file=../CHANGELOG.md \
-            main.js manifest.json styles.css
+            main.js manifest.json
